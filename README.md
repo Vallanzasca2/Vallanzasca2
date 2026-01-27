@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm an IT student 👋
 
-<!--
-**Vallanzasca2/Vallanzasca2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Interested in IT and technology  
+🤖 Using AI tools to learn and build projects
 
-Here are some ideas to get you started:
+## Skills
+- Python (data analysis basics)
+- SQL (SELECT, JOIN, basic queries)
+- Excel (formulas, pivot tables, data cleaning)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## AI Tools I Use
+- ChatGPT (learning, code explanation, CV optimization)
+- AI tools for data analysis and documentation
+
+## Links
+- LinkedIn: (add link)
+- Portfolio: (coming soon
+
