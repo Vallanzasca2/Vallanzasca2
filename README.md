@@ -18,3 +18,5 @@
 - LinkedIn: (add link)
 - Portfolio: (coming soon
 
+##Linkedin: https://www.linkedin.com/in/ivane-kargareteli-612b95373/
+
