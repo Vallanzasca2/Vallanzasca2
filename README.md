@@ -15,8 +15,8 @@
 - AI tools for data analysis and documentation
 
 ## Links
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/ivane-kargareteli-612b95373/
 - Portfolio: (coming soon
 
-##Linkedin: https://www.linkedin.com/in/ivane-kargareteli-612b95373/
+
 
